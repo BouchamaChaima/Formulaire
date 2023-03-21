@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+form {
+    width: 20%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+input[type=text]{
+    padding: 3px 5px;
+    margin-top: 50px;
+}
